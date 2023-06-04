@@ -128,5 +128,15 @@
     p {
       font-size: 12px;
     }
-  
+  .image-home {
+    display: none;
+  }
+  .app-description {
+    margin: 0 auto;
+  }
+  .app-description > a {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
   }
